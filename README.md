@@ -1,1 +1,3 @@
 # FNB-sales
+
+The FNB BIG QUERY dataset is a sales and business performance dataset containing daily sales information from December 2013 to November 2016. The dataset includes 1,053 records and 11 columns, providing information about the date, day of the week, month, year, time classification, sales, cost of sales, and quantity of products sold. It can be used to analyse sales performance, identify trends over time, compare performance across different days and months, and evaluate the relationship between sales, costs, and quantities sold. The dataset is suitable for business intelligence, data analysis, and creating an interactive sales dashboard.
